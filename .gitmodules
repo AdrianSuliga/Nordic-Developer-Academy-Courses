@@ -1,0 +1,6 @@
+[submodule "nRF_Connect_SDK_Fundamentals/ncs-fund"]
+	path = nRF_Connect_SDK_Fundamentals/ncs-fund
+	url = git@github.com:NordicDeveloperAcademy/ncs-fund.git
+[submodule "nRF_Connect_SDK_Fundamentals/nRF_Connect_SDK_Fundamentals_Solutions"]
+	path = nRF_Connect_SDK_Fundamentals/nRF_Connect_SDK_Fundamentals_Solutions
+	url = git@github.com:NordicDeveloperAcademy/ncs-fund.git
